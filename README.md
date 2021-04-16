@@ -1,5 +1,5 @@
 ### Hi there <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width='30px'>, I am Dauntless
-
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/___waverider?label=Connect%20with%20Me%20on%20Twitter&style=social">
 <!--
 **dauntless001/dauntless001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
