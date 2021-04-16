@@ -1,5 +1,5 @@
 ### Hi there <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width='30px'>, I am Dauntless
-![Twitter Follow](https://img.shields.io/twitter/follow/___waverider?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/___waverider?label=People%20Following%20me%20on%20twitter&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/dauntless001?style=social)
 
 
